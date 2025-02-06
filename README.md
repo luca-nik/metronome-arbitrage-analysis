@@ -40,7 +40,7 @@ The detailed results and analysis can be found in the accompanying PDF document,
 
 You can access the full breakdown of the analysis and trading strategy in the following document:
 
-- [Metronome Arbitrage Analysis - PDF](../../_documents/MetronomeArbitrage.pdf)
+- [Metronome Arbitrage Analysis - PDF](MetronomeArbitrage.pdf)
 
 ## Contributing
 
