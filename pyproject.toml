@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "C11 task 2"
+name = "Metronome Arbitrage Analysis"
 version = "0.1.0"
-description = "My solutions to the C11 2nd task"
+description = "Exploring the Autonomous Converter Contract: Risk-Free Arbitrage in Metronome 1.0"
 authors = ["luca-nik <luca.nicoli.engineer@gmail.com>"]
 packages = [{ include = "src" }]
 
